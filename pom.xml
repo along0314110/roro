@@ -8,5 +8,6 @@
   	<module>roro-io</module>
   	<module>roro-word</module>
   	<module>roro-example</module>
+  	<module>roro-mycat</module>
   </modules>
 </project>
